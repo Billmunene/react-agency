@@ -33,7 +33,7 @@ const rated_content ={
         bg_img: "/assets/img/rate/rated-bg.jpg",
         
 
-        title: <>Customers have <span>Consistently</span><br /> <span>Rated</span> Softec<span> 4.9/5</span></>,
+        title: <>Customers have <span>Consistently</span><br /> <span>Rated</span> nexsct<span> 4.9/5</span></>,
 }
 
 const {author, bg_img, title}  = rated_content

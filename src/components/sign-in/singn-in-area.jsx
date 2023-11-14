@@ -15,7 +15,7 @@ import shape_5 from "../../../public/assets/img/login/login-4.png";
 
 const login_content = {
     bg_img: "/assets/img/login/login-bg-shape.png",
-    banner_title: <>Welcome To <br /> Your Softec System.</>,
+    banner_title: <>Welcome To <br /> Your nexsct System.</>,
     
 }
 const {bg_img, banner_title}  = login_content
@@ -56,7 +56,7 @@ const SingnInArea = () => {
                         <div className="signin-banner-from d-flex justify-content-center align-items-center">
                             <div className="signin-banner-from-wrap">
                                 <div className="signin-banner-title-box">
-                                    <h4 className="signin-banner-from-title">Sign In to Softec</h4>
+                                    <h4 className="signin-banner-from-title">Sign In to nexsct</h4>
                                 </div>
                                 <div className="signin-banner-login-browser">
                                     <Link href="#">

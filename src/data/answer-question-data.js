@@ -1,8 +1,8 @@
 const answer_question_data = [
   {
     id: 1,
-    question: "Why should I choose Softec?",
-    answer: <>The Softec Shop is built right into your account dashboard, and is accessible
+    question: "Why should I choose nexsct?",
+    answer: <>The nexsct Shop is built right into your account dashboard, and is accessible
           immediately after signing up. </> ,
     accordion_id: "headingOne",
     collapsed: "collapsed",
@@ -13,7 +13,7 @@ const answer_question_data = [
   {
     id: 2,
     question: "Do I need to change banks??",
-    answer: <>The Softec Shop is built right into your account dashboard, and is accessible
+    answer: <>The nexsct Shop is built right into your account dashboard, and is accessible
           immediately after signing up. </> ,
     accordion_id: "headingTwo",
     collapsed: "",
@@ -27,7 +27,7 @@ const answer_question_data = [
   {
     id: 3,
     question: "How can I order equipment?",
-    answer: <>The Softec Shop is built right into your account dashboard, and is accessible
+    answer: <>The nexsct Shop is built right into your account dashboard, and is accessible
     immediately after signing up. </> ,
     accordion_id: "headingThree",
     collapsed: "collapsed",
@@ -39,7 +39,7 @@ const answer_question_data = [
   {
     id: 4,
     question: "Do you offer volume discounts?",
-    answer: <>The Softec Shop is built right into your account dashboard, and is accessible
+    answer: <>The nexsct Shop is built right into your account dashboard, and is accessible
           immediately after signing up. </> ,
     accordion_id: "headingFour",
     collapsed: "collapsed",
@@ -51,7 +51,7 @@ const answer_question_data = [
   {
     id: 5,
     question: "How does signing up work?",
-    answer: <>The Softec Shop is built right into your account dashboard, and is accessible
+    answer: <>The nexsct Shop is built right into your account dashboard, and is accessible
     immediately after signing up. </> ,
     accordion_id: "headingFive",
     collapsed: "collapsed",

@@ -291,7 +291,7 @@ const CareerDetailsArea = () => {
                               <Link className="linkedin" href="#"><i className="fab fa-linkedin-in"></i></Link>
                            </div>
                            <div className="career-details-bottom-text text-center">
-                              <Link href="#">Employee at Softec?</Link>
+                              <Link href="#">Employee at nexsct?</Link>
                            </div>
                         </div>
                      </div>

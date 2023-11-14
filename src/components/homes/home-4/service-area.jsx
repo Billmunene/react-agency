@@ -9,7 +9,7 @@ import img from "../../../../public/assets/img/service/service-shape-right.png";
 const service_content = {
     sub_title: "WHAT WE DO",
     title: "Our Services",
-    description: <>Softec provides all customer management <br /> service within one software.</>,
+    description: <>nexsct provides all customer management <br /> service within one software.</>,
 }
 const {sub_title, title, description}  = service_content
 

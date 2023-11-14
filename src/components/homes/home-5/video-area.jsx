@@ -41,7 +41,7 @@ const VideoArea = () => {
                   playsInline
                   muted
                   alt="All the devices"
-                  src="http://weblearnbd.net/tphtml/videos/softec/softec-video.mp4"
+                  src="http://weblearnbd.net/tphtml/videos/nexsct/nexsct-video.mp4"
                   ref={videoEl}
                   > 
                   </video>

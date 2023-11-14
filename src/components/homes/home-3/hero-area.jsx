@@ -15,7 +15,7 @@ import { useIsomorphicLayoutEffect } from '@/src/hooks/useIsomorphicEffect';
 const hero_content = { 
    title_1: <>Great <span>Customer</span></>,
    title_2: "Relationships Start Here.",
-   info: <>Softec provides all customer management service within one software. <br /> Our landing works on all devices.</>,
+   info: <>nexsct provides all customer management service within one software. <br /> Our landing works on all devices.</>,
    btn_1: "Live Damo",
    btn_2: "Try it on Browser",
    

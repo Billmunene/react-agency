@@ -89,7 +89,7 @@ const PostboxArea = ({style_details_2}) => {
                                     <DoubleSemicolon /> 
                                  </div>
                                  <div className="postbox__details-qoute-text">
-                                    <p>“The team at @softecagency is incredibly dedicated, knowledgeable, and helpful.</p>
+                                    <p>“The team at @nexsctagency is incredibly dedicated, knowledgeable, and helpful.</p>
                                     <span>Socrates</span>
                                  </div>
                               </blockquote>

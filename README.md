@@ -1,55 +1,22 @@
-          Softec - Data analytics React Next js Template Documentation          [](#top)
 
-[![logo](assets/images/icon/logo-black.png)](#)
-
-[request support](https://help.themepure.net) [Visit Themes](https://themeforest.net/user/theme_pure/portfolio)[](#)
-
-### Doc Navigation
-
-*    [![](assets/images/icon/start-button.png) Getting Started](#getting_started)
-    *   [Introduction](#introduction)
-    *   [What's Included](#what_included)
-*    [![](assets/images/icon/react-icon.png) React Installation](#react_installation)
-*    [![](assets/images/icon/writer.png) Basic Site Setting](#basic_site_setting)
-    *   [Change Site Title and Favicon](#change_site_title_and_favicon)
-    *   [Changing Brand Logo](#change_logo)
-    *   [Customize Menu](#customize_menu)
-    *   [Customize Footer](#customize_footer)
-*    [![](assets/images/icon/landing-page.png) Pages](#pages)
-    *   [Blog](#blog)
-    *   [Service](#product)
-    *   [404](#404)
-*    [![](assets/images/icon/settings.png) Template Options](#template_options)
-    *   [Header](#option_header)
-    *   [Color](#option_color)
-    *   [Typography](#option_typo)
-*   [![](assets/images/icon/headphone.png)Support](#support)
-
-1.  **Item Name :** Softec - Data analytics React Next js Template
-2.  **Created:** 05 April 2023
-3.  **Item Version :** v 1.0.0
-4.  **Author :** [theme\_pure](https://themeforest.net/user/theme_pure/portfolio)
-5.  **Support Ticket:** [https://help.themepure.net](https://help.themepure.net)
-
-![](assets/images/screenshot.jpg)
 
 Introduction
 ------------
 
-#### Softec - Data analytics React Next js Template
+#### nexsct - Data analytics React Next js Template
 
 For any support please don't hesitate to contact us at [**Support Center**](https://help.themepure.net). We provide 13 hours real-time support for our customers.
 
-We would like to thank you for choosing **Softec**.
+We would like to thank you for choosing **nexsct**.
 
 ### Getting started
 
-Softec - Data analytics React Next js Template is a modern Responsive Multi-Purpose Multi-Page bootstrap template for startup digital agencies and SEO agencies that offers design, development, and online marketing services to its client.
+nexsct - Data analytics React Next js Template is a modern Responsive Multi-Purpose Multi-Page bootstrap template for startup digital agencies and SEO agencies that offers design, development, and online marketing services to its client.
 
 Requirements
 ------------
 
-There are system requirements in order to install and setup Softec template and its components properly. Make sure that you are installed **node.js** and **Yarn**.
+There are system requirements in order to install and setup nexsct template and its components properly. Make sure that you are installed **node.js** and **Yarn**.
 
 #### For nodejs go here [Nodjs](https://nodejs.org/en/)
 
@@ -90,13 +57,13 @@ There are system requirements in order to install and setup Softec template and 
 
 ### What's Included
 
-After purchasing Softec template on themeforest.net with your Envato account, go to your Download page. You can choose to download Softec template package which contains the following files:
+After purchasing nexsct template on themeforest.net with your Envato account, go to your Download page. You can choose to download nexsct template package which contains the following files:
 
 ![](assets/images/1.png)
 
 #### The contents of the template package downloaded from ThemeForest
 
-*   **Softec** - An React Next js Template file. this file you can edit and use for your business.
+*   **nexsct** - An React Next js Template file. this file you can edit and use for your business.
 *   **Documentation** - This folder contains what you are reading now :)
 
 React Installation
@@ -132,7 +99,7 @@ Basic Site Settings
 
 ### Change Site Title, Favicon and Page Title
 
-To change your Site title and Favicon open the Softec in your editor and go to the location by following screenshot which are given bellow.
+To change your Site title and Favicon open the nexsct in your editor and go to the location by following screenshot which are given bellow.
 
 ![3.1.1](assets/images/change-title.png)
 
@@ -244,10 +211,6 @@ Customize the Typography
 
 ### Support
 
-If you face any issue please contact us at [Support Ticket](https://help.themepure.net). We provide 15 hours real-time support for our customers.
 
-Thank you for purchasing our template.
-
-© 2023 All Rights Reserved by [theme\_pure](https://themeforest.net/user/theme_pure/portfolio).
 
 [](#)
