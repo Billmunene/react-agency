@@ -3,11 +3,11 @@
 Introduction
 ------------
 
+
+
 #### nexsct - Data analytics React Next js Template
 
-For any support please don't hesitate to contact us at [**Support Center**](https://help.themepure.net). We provide 13 hours real-time support for our customers.
 
-We would like to thank you for choosing **nexsct**.
 
 ### Getting started
 
